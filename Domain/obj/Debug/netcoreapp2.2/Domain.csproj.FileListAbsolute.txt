@@ -1,0 +1,10 @@
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.json
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.dev.json

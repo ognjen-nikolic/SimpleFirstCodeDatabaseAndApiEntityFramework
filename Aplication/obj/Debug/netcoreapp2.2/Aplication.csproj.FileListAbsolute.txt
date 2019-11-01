@@ -1,0 +1,11 @@
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Aplication\bin\Debug\netcoreapp2.2\Aplication.deps.json
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Aplication\bin\Debug\netcoreapp2.2\Aplication.dll
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Aplication\bin\Debug\netcoreapp2.2\Aplication.pdb
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Aplication\obj\Debug\netcoreapp2.2\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Aplication\obj\Debug\netcoreapp2.2\Aplication.AssemblyInfoInputs.cache
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Aplication\obj\Debug\netcoreapp2.2\Aplication.AssemblyInfo.cs
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Aplication\obj\Debug\netcoreapp2.2\Aplication.dll
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Aplication\obj\Debug\netcoreapp2.2\Aplication.pdb
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Aplication\bin\Debug\netcoreapp2.2\Aplication.runtimeconfig.json
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Aplication\bin\Debug\netcoreapp2.2\Aplication.runtimeconfig.dev.json
+C:\Users\Ognjen\source\repos\Sajtvezbanjeogo\Aplication\obj\Debug\netcoreapp2.2\Aplication.csprojAssemblyReference.cache
